@@ -1,6 +1,12 @@
 # to ignore a specific file, add the file name and path to the .gitignore file
 /.vscode
 /.idea
+data/data/master.csv
+data/data/raw_scen_cntry_clean.csv
+notebooks/gdp_and_emissions_plots.ipynb
+data/data/aff_master.csv
+data/data/Guetschow_PMSSPBIE_downscaled_ssps_february2020.csv
+
 
 # add a note to ignore full size guetschow scen data later
 .ipynb_checkpoints

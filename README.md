@@ -26,7 +26,7 @@ To generate the results of this analysis yourself, clone the repository, navigat
 The analysis generates a series of plots and statistical outputs representing relationships between various factors and country-level carbon emissions. These are stored in the plots/ directory.
 
 ### Acknowledgements
-The conceptual basis for the modeling of future emissions and initial identification of data sources is credited to Johannes Ackva. All code production and remaining analysis are my own. This thesis was supervised by Prof. Ralph Winkler in the Department of Economics at the University of Bern, Switzerland.
+The conceptual basis for the modeling of future emissions and initial identification of data sources is credited to Johannes Ackva. All code production and remaining analysis are my own. This thesis was supervised by Prof. Ralph Winkler in the Department of Economics at the University of Bern, Switzerland. It was submitted in August 2023.
 
 ### Licensing
 Please do not distribute this material for commercial purposes or profit. Some datasets in this analysis are distributed under a Creative Commons license.

@@ -3,6 +3,7 @@
 /.idea
 data/data/master.csv
 data/data/raw_scen_cntry_clean.csv
+data/raw/Guetschow_PMSSPBIE_downscaled_ssps_february2020.csv
 notebooks/gdp_and_emissions_plots.ipynb
 data/data/aff_master.csv
 data/data/Guetschow_PMSSPBIE_downscaled_ssps_february2020.csv

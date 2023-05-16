@@ -19,3 +19,4 @@ data/data/Guetschow_PMSSPBIE_downscaled_ssps_february2020.csv
 *.out
 *.DS_Store
 *Guetschow_PMSSPBIE_downscaled_ssps_february2020.csv
+*master.csv
